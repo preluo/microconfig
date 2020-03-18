@@ -34,3 +34,9 @@ info:
     name: config-test-client2
   company: 
     name: enjoy2
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
