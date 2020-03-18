@@ -31,6 +31,6 @@ eureka:
     
 info:
   app:
-    name: config-test-client1
+    name: config-test-client2
   company: 
-    name: enjoy1
+    name: enjoy2
