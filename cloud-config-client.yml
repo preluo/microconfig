@@ -28,3 +28,9 @@ eureka:
  client:
   service-url:
     defaultZone: http://admin:enjoy@eureka1:7001/eureka,http://admin:enjoy@eureka2:7002/eureka,http://admin:enjoy@eureka3:7003/eureka
+    
+info:
+  app:
+    name: config-test-client
+  company: 
+    name: enjoy
