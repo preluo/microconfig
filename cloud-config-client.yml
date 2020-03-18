@@ -31,9 +31,9 @@ eureka:
     
 info:
   app:
-    name: config-test-client2
+    name: config-test-client3
   company: 
-    name: enjoy2
+    name: enjoy3
     
 management:
   endpoints:
